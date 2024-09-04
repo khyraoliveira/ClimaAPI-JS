@@ -1,4 +1,4 @@
-# ClimaAPI-JS
+# ClimaAPI-JS ⛅
 # Consulta de API de Clima com JavaScript
 
 Este repositório contém um projeto simples que realiza a consulta de dados meteorológicos utilizando a API do Open Weather Map.<br>
